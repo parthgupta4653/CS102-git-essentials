@@ -7,3 +7,7 @@ git status (check the repo status)
 git commit -m "local: added cs102 lecture notes" (Commit the changes to repo on local)
 
 git push origin master (upload changes to cloud)
+
+summary:
+
+we learned how to use git
